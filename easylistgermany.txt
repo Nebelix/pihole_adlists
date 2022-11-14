@@ -1,3 +1,4 @@
+#Adservers
 4adtf.com.
 4adtf.com
 4rm.de
@@ -276,6 +277,5 @@ za-ads.de
 zazufi.com
 zieltracker.de
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
-# Mobile
 avault.net
 recognified.net
