@@ -11,12 +11,17 @@ wpad.etamax.site
 europe.smartscreen-prod.microsoft.com
 # Alphabet
 mtalk.google.com
+accounts.google.com
+consent.youtube.com
+csp.withgoogle.com
 # Winzigweich
 pti.store.microsoft.com
 # Game clients
 gwent-bi-collector.gog.com
 insights-collector.gog.com
 chat.gog.com
+recommendations-api.gog.com
+steamcdn-a.akamaihd.net
 # Pr0n
 gold.faphouse.com
 ru.xhamster.com
@@ -29,10 +34,3 @@ cerberus.sqrt-5041.de
 assets.adobetm.com
 
 # Experimental temporary
-# Alphabet
-accounts.google.com
-consent.youtube.com
-csp.withgoogle.com
-# Game clients
-recommendations-api.gog.com
-steamcdn-a.akamaihd.net
