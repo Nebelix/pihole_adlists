@@ -34,3 +34,17 @@ cerberus.sqrt-5041.de
 assets.adobetm.com
 
 # Experimental temporary
+# Game clients
+cdn.cloudflare.steamstatic.com
+steamstore-a.akamaihd.net
+steam-chat.com
+community.cloudflare.steamstatic.com
+cdn.akamai.steamstatic.com
+# Pr0n
+o3xfueq4ydcv.l4.adsco.re
+r3.o.lencr.org
+4.adsco.re
+6.adsco.re
+c.adsco.re
+static.trafficjunky.com
+cdn1-smallimg.phncdn.com
