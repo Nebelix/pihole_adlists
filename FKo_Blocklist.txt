@@ -22,6 +22,7 @@ insights-collector.gog.com
 chat.gog.com
 recommendations-api.gog.com
 steamcdn-a.akamaihd.net
+steam-chat.com
 # Pr0n
 gold.faphouse.com
 ru.xhamster.com
@@ -43,7 +44,6 @@ assets.adobetm.com
 # Experimental temporary
 # Game clients
 # cdn.cloudflare.steamstatic.com
-# steamstore-a.akamaihd.net
-steam-chat.com
+steamstore-a.akamaihd.net
 # community.cloudflare.steamstatic.com
 # cdn.akamai.steamstatic.com
