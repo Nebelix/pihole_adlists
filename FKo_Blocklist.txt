@@ -42,8 +42,8 @@ assets.adobetm.com
 
 # Experimental temporary
 # Game clients
-cdn.cloudflare.steamstatic.com
+# cdn.cloudflare.steamstatic.com
 # steamstore-a.akamaihd.net
 steam-chat.com
-community.cloudflare.steamstatic.com
-cdn.akamai.steamstatic.com
+# community.cloudflare.steamstatic.com
+# cdn.akamai.steamstatic.com
